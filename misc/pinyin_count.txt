@@ -1,2 +1,4 @@
+bi 1
+niu 2
 xian 1
 zai 1
