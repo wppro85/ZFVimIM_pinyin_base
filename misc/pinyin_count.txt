@@ -1,4 +1,8 @@
-bi 1
-niu 2
+a 2
+bi 2 1
+de 1
+hen 1
+niu 3
+niubi 1
 xian 1
 zai 1
