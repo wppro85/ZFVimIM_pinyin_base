@@ -1,6 +1,7 @@
 a 2
 bi 2 1
 bu 1
+cha 1
 chi 1
 ci 2 1
 ciku 1
@@ -11,6 +12,7 @@ gao 1
 he 2
 hen 1
 huan 1
+jian 1
 ku 2
 le 1
 niu 3
