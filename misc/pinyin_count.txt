@@ -1,14 +1,28 @@
 a 2
 bi 2 1
+bu 1
+chi 1
+ci 2 1
+ciku 1
 de 2
 duo 1
 fa 1 1
-he 1
+gao 1
+he 2
 hen 1
+huan 1
+ku 2
 le 1
 niu 3
 niubi 1
+pin 1
+ti 1
+tong 1
+tongbu 1
 wen 3
 xian 1
+yu 1
 zai 1
+zhi 1
+zhichi 1
 zhong 3
