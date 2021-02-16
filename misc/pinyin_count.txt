@@ -1,8 +1,10 @@
 a 2
 bi 2 1
 de 2
+duo 1
 fa 1 1
 hen 1
+le 1
 niu 3
 niubi 1
 xian 1
