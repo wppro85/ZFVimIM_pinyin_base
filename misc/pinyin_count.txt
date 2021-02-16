@@ -7,7 +7,7 @@ hen 1
 le 1
 niu 3
 niubi 1
-wen 1
+wen 2
 xian 1
 zai 1
-zhong 1
+zhong 2
