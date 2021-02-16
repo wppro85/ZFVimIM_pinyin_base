@@ -1,6 +1,7 @@
 a 2
 bi 2 1
-de 1
+de 2
+fa 1 1
 hen 1
 niu 3
 niubi 1
